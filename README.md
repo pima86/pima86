@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Kim%20Seonghyuk)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Seonghyuk%20Kim)
 ###### ⭐ Unity Client Programmer ⭐
 ##### :+1: Thank you for your time, and welcome my GitHub profile!
 
