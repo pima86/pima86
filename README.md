@@ -4,7 +4,6 @@
 ###### ⭐ Unity Client Programmer ⭐
 ##### :+1: Thank you for your time, and welcome my GitHub profile!
 
-![5c107a184e2f01cc0f35e13e5c62470b](https://github.com/pima86/pima86/assets/71416955/fdb962ce-8ed8-4fcd-95c9-134537ea1310)
 ![5c107a184e2f01cc0f35e13e5c62470b](https://github.com/pima86/pima86/assets/71416955/d5a0aa78-3a12-46b1-bf70-b2c95df55f50)
 
 ##### 🌀: Once I've Used 
@@ -20,6 +19,6 @@
 <br/>
 <br/>
 
+###### Log
 [<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
-[<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@ounols)
-[<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/user/ounols)
+[<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCmYgjURxYiuSghcsXR6-mYw)
