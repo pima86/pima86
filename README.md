@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center"> 
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Kim%20Seonghyuk)
+###### ⭐ Unity Client Programmer ⭐
+##### :+1: Thank you for your time, and welcome my GitHub profile!
 
-<!--
-**pima86/pima86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+##### 🌀: Once I've Used 
+###### Programming language
+<img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=diagramsdotnet&logoColor=sky">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Engine
+<img src="https://img.shields.io/badge/Unity-007396?style=for-the-badge&logo=Unity&logoColor=white">
+
+[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
+[<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@ounols)
+[<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/user/ounols)
