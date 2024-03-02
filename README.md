@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4169E1&height=200&text=Seonghyuk%20Kim)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4169E1&height=150&text=Seonghyuk%20Kim)
 ###### ⭐ Unity Client Programmer ⭐
 ##### :+1: Thank you for your time, and welcome my GitHub profile!
 
