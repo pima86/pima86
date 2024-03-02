@@ -10,6 +10,7 @@
 ###### Skill
 <img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-4479A1?style=for-the-badge&logo=csharp&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=diagramsdotnet&logoColor=sky">
