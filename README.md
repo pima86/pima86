@@ -24,7 +24,6 @@
 <br/>
 
 ###### Log
-[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
 [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCmYgjURxYiuSghcsXR6-mYw)
 
 <img src="https://github-readme-stats.vercel.app/api?username=pima86&theme=white&show_icons=true" width="42%" />
